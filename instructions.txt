@@ -4,5 +4,3 @@ Lorem ipsum...
 
 Installation on IIS
 -------------------
-
-Content goes here
